@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lee%20Yun%20Chang&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%40%20SeoulSoft&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lee%20Yun%20Chang&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%40%20SeoulSoft&descAlignY=58&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6C7CF7&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%9C%A4%EC%B0%BD%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;Backend+Developer+%40+SeoulSoft;%EA%BE%B8%EC%A4%80%ED%95%A8%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
 
