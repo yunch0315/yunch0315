@@ -43,8 +43,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yunch0315&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunch0315&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yunch0315&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=yunch0315&theme=tokyonight&hide_border=true&locale=ko" />
 
