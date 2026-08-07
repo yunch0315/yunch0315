@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lee%20Yun%20Chang&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%40%20SeoulSoft&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lee%20Yun%20Chang&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20SeoulSoft&descAlignY=58&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6C7CF7&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%9C%A4%EC%B0%BD%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;Backend+Developer+%40+SeoulSoft;%EA%BE%B8%EC%A4%80%ED%95%A8%EC%9C%BC%EB%A1%9C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6C7CF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Lee+Yun+Chang+%F0%9F%91%8B;Full+Stack+Developer+%40+SeoulSoft;Growing+one+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
 ## 🙋‍♂️ About Me
 
-- 🏢 **SeoulSoft**에서 개발하고 있습니다
-- 📍 충청북도 충주시 (Chungju-si, South Korea)
-- 🌱 Java & Spring 기반 백엔드 개발에 집중하고 있어요
-- 💪 지난 1년간 **1,000+ contributions** — 꾸준함이 무기입니다
-- 📫 연락처: [yunch0315@gmail.com](mailto:yunch0315@gmail.com)
+- 🏢 Full Stack Developer at **SeoulSoft**
+- 📍 Based in Chungju-si, South Korea
+- 🌱 Building web services end to end — from **Java & Spring** backends to **JavaScript** frontends
+- 💪 **1,000+ contributions** in the last year — consistency is my superpower
+- 📫 Reach me at [yunch0315@gmail.com](mailto:yunch0315@gmail.com)
 
 ## 🛠 Tech Stack
 
@@ -45,17 +45,17 @@
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yunch0315&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=yunch0315&theme=tokyonight&hide_border=true&locale=ko" />
+<img src="https://streak-stats.demolab.com?user=yunch0315&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ## 🚀 Projects
 
-| 프로젝트 | 설명 |
+| Project | Description |
 | --- | --- |
-| [AstroVerse](https://github.com/yunch0315/AstroVerse) | 개인 프로젝트 |
-| [Java-C-team-CareMatch](https://github.com/test052517/Java-C-team-CareMatch) | Java 팀 프로젝트 — CareMatch |
-| [JSP-B-team-Newsrrect](https://github.com/test052517/JSP-B-team-Newsrrect) | JSP 팀 프로젝트 — Newsrrect |
+| [AstroVerse](https://github.com/yunch0315/AstroVerse) | Personal project |
+| [Java-C-team-CareMatch](https://github.com/test052517/Java-C-team-CareMatch) | Java team project — CareMatch |
+| [JSP-B-team-Newsrrect](https://github.com/test052517/JSP-B-team-Newsrrect) | JSP team project — Newsrrect |
 
 <div align="center">
 
