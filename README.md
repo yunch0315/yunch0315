@@ -77,7 +77,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-yunch0315%2Flinkbeat-181717?style=for-the-badge&logo=github)](https://github.com/yunch0315/linkbeat)
 [![Platform](https://img.shields.io/badge/Platform-Web%20|%20macOS%20|%20Windows%20|%20Android-blueviolet?style=for-the-badge)](https://github.com/yunch0315/linkbeat)
 
-**[📱 Android APK](https://github.com/yunch0315/linkbeat/releases/latest/download/LINKBEAT.apk)** · **[🍏 macOS DMG (Apple Silicon)](https://github.com/yunch0315/linkbeat/releases/latest/download/LINKBEAT-mac-arm64.dmg)** · **[🪟 Windows Portable ZIP](https://github.com/yunch0315/linkbeat/releases/latest/download/LINKBEAT-win-x64-portable.zip)**
+**[📱 Android APK](https://github.com/yunch0315/linkbeat/releases/latest/download/LINKBEAT.apk)** · **[🍏 macOS DMG (Apple Silicon)](https://github.com/yunch0315/linkbeat/releases/latest/download/LINKBEAT-mac-arm64.dmg)** · **[🪟 Windows (LINKBEAT.exe)](https://github.com/yunch0315/linkbeat/releases/latest/download/LINKBEAT-win-x64-portable.zip)**
 
 </div>
 
