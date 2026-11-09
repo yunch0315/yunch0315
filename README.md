@@ -12,6 +12,7 @@
 - 📍 Based in Chungju-si, South Korea
 - 🌱 From **Java 21 / Jakarta EE** backends to **Vanilla JS** frontends, and GCP deployment
 - 🎵 Audio DSP & Cross-Platform Game Engineering ([**LINKBEAT**](https://github.com/yunch0315/linkbeat))
+- 🛡️ Security Tooling — Antivirus & Anti-Ransomware Engine ([**Sentry-AV**](https://github.com/yunch0315/sentry-av))
 - 💪 **1,000+ contributions** in the last year — consistency is my superpower
 - 📫 Reach me at [yunch0315@gmail.com](mailto:yunch0315@gmail.com)
 
@@ -92,6 +93,33 @@
   - 📱 **Android**: Kotlin 네이티브 앱 (Android SDK 35, `PRIMITIVE_CLICK` 네이티브 햅틱, `ExtractService` 백그라운드 추출 서비스 및 시스템 공유 시트 연동)
 - 🔗 **GitHub Repository**: [yunch0315/linkbeat](https://github.com/yunch0315/linkbeat)
 
+## 🛡️ Featured Project — Sentry-AV
+
+<div align="center">
+
+### **[Sentry-AV — Antivirus & Anti-Ransomware CLI](https://github.com/yunch0315/sentry-av)**
+*Windows / macOS 공용 백신 + 랜섬웨어 실시간 차단 도구. 파일 하나로 배포되고 GitHub Releases에서 스스로 업데이트됩니다*
+
+[![Release](https://img.shields.io/github/v/release/yunch0315/sentry-av?style=for-the-badge&color=3ef0ff&label=Release)](https://github.com/yunch0315/sentry-av/releases/latest)
+[![Repo](https://img.shields.io/badge/GitHub-yunch0315%2Fsentry--av-181717?style=for-the-badge&logo=github)](https://github.com/yunch0315/sentry-av)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS-blueviolet?style=for-the-badge)](https://github.com/yunch0315/sentry-av)
+
+**[🪟 Windows (sentry-windows-x64.exe)](https://github.com/yunch0315/sentry-av/releases/latest/download/sentry-windows-x64.exe)** · **[🍏 macOS (Apple Silicon)](https://github.com/yunch0315/sentry-av/releases/latest/download/sentry-macos-arm64)**
+
+</div>
+
+- **Detection Engine**:
+  - 해시 시그니처(abuse.ch `MalwareBazaar` · `ThreatFox` 공개 피드) + 휴리스틱 + 선택적 `YARA` 규칙 검사
+  - 약 115만 개 해시를 정렬된 32바이트 다이제스트 인덱스로 저장하고 `mmap` + 이진 탐색으로 조회해 메모리를 거의 쓰지 않음
+  - 강한 단서 / 약한 단서 점수제와 코드 서명 검증(`codesign`, Authenticode)으로 오탐 억제
+- **Real-Time Ransomware Blocking**:
+  - 파일 이벤트 + 미끼(카나리) 파일 + 프로세스 명령줄 규칙 + 프로세스별 디스크 쓰기량 추적
+  - 증거 점수 기반 프로세스 귀속으로 공격 프로세스 종료 및 스크립트 격리
+- **Distribution & Self-Update**:
+  - `PyInstaller` 단일 실행 파일 (Python 설치 불필요), `GitHub Actions`가 Windows · Apple Silicon 러너에서 테스트 · 빌드 · 자가 진단 후 릴리스
+  - `SHA256SUMS.txt` 대조 후 실행 파일을 교체하고, 새 버전 기동 확인에 실패하면 이전 버전으로 자동 복구
+- 🔗 **GitHub Repository**: [yunch0315/sentry-av](https://github.com/yunch0315/sentry-av)
+
 ---
 
 ## 🧪 Other Projects
@@ -99,6 +127,7 @@
 | Project | Description |
 | --- | --- |
 | [LINKBEAT](https://github.com/yunch0315/linkbeat) | Auto-chart rhythm game analyzing audio streams or links (Web · Desktop · Android) |
+| [Sentry-AV](https://github.com/yunch0315/sentry-av) | Cross-platform antivirus & anti-ransomware CLI with real-time process blocking (Windows · macOS) |
 | [AstroVerse](https://github.com/yunch0315/AstroVerse) | Personal project |
 | [Java-C-team-CareMatch](https://github.com/test052517/Java-C-team-CareMatch) | Java team project — CareMatch |
 | [JSP-B-team-Newsrrect](https://github.com/test052517/JSP-B-team-Newsrrect) | JSP team project — Newsrrect |
